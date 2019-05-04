@@ -4,7 +4,6 @@ Comentario
 de parrafo
 """
 import math
-import numpy
 
 # Hola Mundo
 print("Hola Mundo")
@@ -115,16 +114,3 @@ if a == b and a > 2:
 
 if a == b or a > 2:
     print(a, "es igual a ", b, "mayor que 2")
-
-
-
-
-
-
-
-
-
-
-
-
-
